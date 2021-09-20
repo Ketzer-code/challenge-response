@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu'), url(https://fonts.googleapis.com/css?family=Ubuntu&display=swap) format('woff');
+}
+
+html body{
+    font-family: 'Ubuntu', 'Source Sans Pro', sans-serif !important;
+}

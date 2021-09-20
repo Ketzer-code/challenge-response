@@ -1,0 +1,4 @@
+# Ingore deployment files and lint
+*deploy.R
+*.lintr
+*rsconnect
